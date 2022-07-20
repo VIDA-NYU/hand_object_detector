@@ -6,8 +6,10 @@ cffi
 opencv-python
 msgpack
 matplotlib
-pyyaml
+PyYaml
 tensorboardX
 tqdm
 jinja2
 pascal_voc_writer
+torch==1.0.1
+torchvision
